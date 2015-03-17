@@ -1,0 +1,21 @@
+[submodule "mopidy-api-explorer"]
+	path = mopidy-api-explorer
+	url = https://github.com/dz0ny/mopidy-api-explorer.git
+[submodule "mopidy-mobile"]
+	path = mopidy-mobile
+	url = https://github.com/tkem/mopidy-mobile.git
+[submodule "moped"]
+	path = mopidy-moped
+	url = https://github.com/martijnboland/moped.git
+[submodule "mopidy-mopify"]
+	path = mopidy-mopify
+	url = https://github.com/dirkgroenen/mopidy-mopify.git
+[submodule "Mopidy-MusicBox-Webclient"]
+	path = mopidy-musicbox-webclient
+	url = https://github.com/woutervanwijk/Mopidy-MusicBox-Webclient.git
+[submodule "mopidy-simple-webclient"]
+	path = mopidy-simple-webclient
+	url = https://github.com/xolox/mopidy-simple-webclient.git
+[submodule "libmopiqy"]
+	path = libmopiqy
+	url = https://github.com/AlexandrePTJ/libmopiqy.git
