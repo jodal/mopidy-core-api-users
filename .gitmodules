@@ -19,3 +19,24 @@
 [submodule "libmopiqy"]
 	path = libmopiqy
 	url = https://github.com/AlexandrePTJ/libmopiqy.git
+[submodule "mopidy-evtdev"]
+	path = mopidy-evtdev
+	url = https://github.com/liamw9534/mopidy-evtdev.git
+[submodule "mopidy-mpris"]
+	path = mopidy-mpris
+	url = https://github.com/mopidy/mopidy-mpris.git
+[submodule "mopidy-notifier"]
+	path = mopidy-notifier
+	url = https://github.com/sauberfred/mopidy-notifier.git
+[submodule "mopidy-scrobbler"]
+	path = mopidy-scrobbler
+	url = https://github.com/mopidy/mopidy-scrobbler.git
+[submodule "mopidy-touchscreen"]
+	path = mopidy-touchscreen
+	url = https://github.com/9and3r/mopidy-touchscreen.git
+[submodule "mopidy-ttsgpio"]
+	path = mopidy-ttsgpio
+	url = https://github.com/9and3r/mopidy-ttsgpio.git
+[submodule "mopidy-webhooks"]
+	path = mopidy-webhooks
+	url = https://github.com/paddycarey/mopidy-webhooks.git
