@@ -12,7 +12,7 @@
 	url = https://github.com/dirkgroenen/mopidy-mopify.git
 [submodule "Mopidy-MusicBox-Webclient"]
 	path = mopidy-musicbox-webclient
-	url = https://github.com/woutervanwijk/Mopidy-MusicBox-Webclient.git
+	url = https://github.com/pimusicbox/mopidy-musicbox-webclient.git
 [submodule "mopidy-simple-webclient"]
 	path = mopidy-simple-webclient
 	url = https://github.com/xolox/mopidy-simple-webclient.git
