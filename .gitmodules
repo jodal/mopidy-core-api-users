@@ -40,3 +40,6 @@
 [submodule "mopidy-webhooks"]
 	path = mopidy-webhooks
 	url = https://github.com/paddycarey/mopidy-webhooks.git
+[submodule "spotmop"]
+	path = spotmop
+	url = https://github.com/jaedb/spotmop
