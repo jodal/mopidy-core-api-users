@@ -43,3 +43,6 @@
 [submodule "spotmop"]
 	path = spotmop
 	url = https://github.com/jaedb/spotmop
+[submodule "mopidy-pandora"]
+	path = mopidy-pandora
+	url = https://github.com/rectalogic/mopidy-pandora
