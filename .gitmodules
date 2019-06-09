@@ -25,9 +25,6 @@
 [submodule "mopidy-mpris"]
 	path = mopidy-mpris
 	url = https://github.com/mopidy/mopidy-mpris.git
-[submodule "mopidy-notifier"]
-	path = mopidy-notifier
-	url = https://github.com/sauberfred/mopidy-notifier.git
 [submodule "mopidy-scrobbler"]
 	path = mopidy-scrobbler
 	url = https://github.com/mopidy/mopidy-scrobbler.git
@@ -42,7 +39,7 @@
 	url = https://github.com/paddycarey/mopidy-webhooks.git
 [submodule "spotmop"]
 	path = spotmop
-	url = https://github.com/jaedb/spotmop
+	url = https://github.com/jaedb/spotmop.git
 [submodule "mopidy-pandora"]
 	path = mopidy-pandora
 	url = https://github.com/rectalogic/mopidy-pandora
