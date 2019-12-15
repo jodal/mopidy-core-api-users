@@ -43,3 +43,27 @@
 [submodule "mopidy-pandora"]
 	path = mopidy-pandora
 	url = https://github.com/rectalogic/mopidy-pandora
+[submodule "mopidy-raspberry-gpio"]
+	path = mopidy-raspberry-gpio
+	url = git@github.com:pimoroni/mopidy-raspberry-gpio.git
+[submodule "mopidy-pidi"]
+	path = mopidy-pidi
+	url = git@github.com:pimoroni/mopidy-pidi.git
+[submodule "mopidy-auto"]
+	path = mopidy-auto
+	url = git@github.com:gotling/mopidy-auto.git
+[submodule "Iris"]
+	path = Iris
+	url = git@github.com:jaedb/Iris.git
+[submodule "jukepi"]
+	path = jukepi
+	url = git@github.com:meantimeit/jukepi.git
+[submodule "Mopidy-Material-Webclient"]
+	path = Mopidy-Material-Webclient
+	url = git@github.com:matgallacher/Mopidy-Material-Webclient.git
+[submodule "mopidy-party"]
+	path = mopidy-party
+	url = git@github.com:Lesterpig/mopidy-party.git
+[submodule "mopidy-websettings"]
+	path = mopidy-websettings
+	url = git@github.com:pimusicbox/mopidy-websettings.git
